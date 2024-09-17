@@ -50,7 +50,7 @@ For each approach, various similarity metrics are used:
 
 BERT-based method shows significant improvement over traditional LSI and LSI with translation approaches.
 
-![Image](CLIR_comparison.png)
+![Image](CLIR_comparison1.png)
 
 ## Tech Stack
 
