@@ -17,11 +17,11 @@
 <h3 align="center">CLIR using BERT</h3>
 
   <p align="center">
-<!--     <a href="https://github.com/youssef-mansor/CLIF-using-BERT">View Demo</a> -->
+<!--     <a href="https://github.com/youssef-mansor/CLIR-using-BERT">View Demo</a> -->
 <!--     · -->
-    <a href="https://github.com/youssef-mansor/CLIF-using-BERT/issues">Report Bug</a>
+    <a href="https://github.com/youssef-mansor/CLIR-using-BERT/issues">Report Bug</a>
     ·
-    <a href="https://github.com/youssef-mansor/CLIF-using-BERT/issues">Request Feature</a>
+    <a href="https://github.com/youssef-mansor/CLIR-using-BERT/issues">Request Feature</a>
   </p>
 </div>
 
@@ -69,7 +69,7 @@ The project utilizes the following technologies:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/youssef-mansor/CLIR-using-BERT.svg?style=for-the-badge
-[contributors-url]: https://github.com/youssef-mansor/CLIF-using-BERT/graphs/contributors
+[contributors-url]: https://github.com/youssef-mansor/CLIR-using-BERT/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/youssef-mansor/CLIR-using-BERT.svg?style=for-the-badge
 [forks-url]: https://github.com/youssef-mansor/CLIR-using-BERT/network/members
 [stars-shield]: https://img.shields.io/github/stars/youssef-mansor/CLIR-using-BERT.svg?style=for-the-badge
