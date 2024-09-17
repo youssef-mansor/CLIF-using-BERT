@@ -14,7 +14,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">CLIR using BERT</h3>
+<h3 align="center"> Cross lingual information retrieval (CLIR) using BERT</h3>
 
   <p align="center">
 <!--     <a href="https://github.com/youssef-mansor/CLIR-using-BERT">View Demo</a> -->
