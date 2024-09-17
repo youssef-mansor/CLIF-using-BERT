@@ -20,11 +20,11 @@
 <h3 align="center">CLIF using BERT</h3>
 
   <p align="center">
-<!--     <a href="https://github.com/youssef-mansor/CLIR-using-BERT">View Demo</a> -->
+<!--     <a href="https://github.com/youssef-mansor/CLIF-using-BERT">View Demo</a> -->
 <!--     · -->
-    <a href="https://github.com/youssef-mansor/CLIR-using-BERT/issues">Report Bug</a>
+    <a href="https://github.com/youssef-mansor/CLIF-using-BERT/issues">Report Bug</a>
     ·
-    <a href="https://github.com/youssef-mansor/CLIR-using-BERT/issues">Request Feature</a>
+    <a href="https://github.com/youssef-mansor/CLIF-using-BERT/issues">Request Feature</a>
   </p>
 </div>
 
@@ -69,16 +69,16 @@ The project utilizes the following technologies:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/youssef-mansor/RCLIR-using-BERT.svg?style=for-the-badge
-[contributors-url]: https://github.com/youssef-mansor/RCLIR-using-BERT/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/youssef-mansor/RCLIR-using-BERT.svg?style=for-the-badge
-[forks-url]: https://github.com/youssef-mansor/RCLIR-using-BERT/network/members
-[stars-shield]: https://img.shields.io/github/stars/youssef-mansor/RCLIR-using-BERT.svg?style=for-the-badge
-[stars-url]: https://github.com/youssef-mansor/RCLIR-using-BERT/stargazers
-[issues-shield]: https://img.shields.io/github/issues/youssef-mansor/RCLIR-using-BERT.svg?style=for-the-badge
-[issues-url]: https://github.com/youssef-mansor/RCLIR-using-BERT/issues
-[license-shield]: https://img.shields.io/github/license/youssef-mansor/RCLIR-using-BERT.svg?style=for-the-badge
-[license-url]: https://github.com/youssef-mansor/RCLIR-using-BERT/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/youssef-mansor/CLIF-using-BERT.svg?style=for-the-badge
+[contributors-url]: https://github.com/youssef-mansor/CLIF-using-BERT/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/youssef-mansor/CLIF-using-BERT.svg?style=for-the-badge
+[forks-url]: https://github.com/youssef-mansor/CLIF-using-BERT/network/members
+[stars-shield]: https://img.shields.io/github/stars/youssef-mansor/CLIF-using-BERT.svg?style=for-the-badge
+[stars-url]: https://github.com/youssef-mansor/CLIF-using-BERT/stargazers
+[issues-shield]: https://img.shields.io/github/issues/youssef-mansor/CLIF-using-BERT.svg?style=for-the-badge
+[issues-url]: https://github.com/youssef-mansor/CLIF-using-BERT/issues
+[license-shield]: https://img.shields.io/github/license/youssef-mansor/CLIF-using-BERT.svg?style=for-the-badge
+[license-url]: https://github.com/youssef-mansor/CLIF-using-BERT/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/youssef-m-86a690174/
 [product-screenshot]: images/screenshot.png
