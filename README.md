@@ -14,10 +14,7 @@
 <br />
 <div align="center">
 
-![Image](images/RISC-V-Processor-pipelined-datapth-with-33-instructions.drawio.png)
-
-
-<h3 align="center">CLIF using BERT</h3>
+<h3 align="center">CLIR using BERT</h3>
 
   <p align="center">
 <!--     <a href="https://github.com/youssef-mansor/CLIF-using-BERT">View Demo</a> -->
@@ -52,6 +49,8 @@ For each approach, various similarity metrics are used:
 ## Results
 
 BERT-based method shows significant improvement over traditional LSI and LSI with translation approaches.
+
+![Image](images/CLIR_comparison.png)
 
 ## Tech Stack
 
